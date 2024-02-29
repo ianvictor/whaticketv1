@@ -18,8 +18,10 @@ cd desktop
 git clone https://github.com/ianvictor/whaticketv1.git
 
 ### ABRIR GIT CMD
+
 cd Desktop
-cd whaticket
+
+cd whaticketv1
 
 ### BACKEND
 cd backend
