@@ -14,7 +14,6 @@ docker run --name ratfixyoutube -e MYSQL_ROOT_PASSWORD=ratflix#$%#GHT -e MYSQL_D
 
 ### WHATICKET
 cd desktop
-
 git clone https://github.com/ianvictor/whaticketv1.git
 
 ### ABRIR GIT CMD
